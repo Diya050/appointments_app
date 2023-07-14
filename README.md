@@ -2,6 +2,3 @@
 
 Appointments Web Portal
 
-#### License
-
-n
