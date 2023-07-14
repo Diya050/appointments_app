@@ -2,8 +2,8 @@
 
 Appointments Web Portal
 
-![](Screenshot from 2023-07-14 19-27-19.png)
+![I1](I1.png)
 
-![](Screenshot from 2023-07-14 19-27-19.png)
+![I2](I2.png)
 
-![](Screenshot from 2023-07-14 19-27-19.png)
+![I3](I3.png)
