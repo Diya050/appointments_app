@@ -2,8 +2,8 @@
 
 Appointments Web Portal
 
-![I1](I1.png)
+![I1](I11.png)
 
-![I2](I2.png)
+![I2](I22.png)
 
-![I3](I3.png)
+![I3](I33.png)
